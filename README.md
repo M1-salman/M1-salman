@@ -5,10 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1-salman&label=Profile%20views&color=0e75b6&style=flat" alt="m1-salman" /> </p>
 
 - 🌱 I’m currently learning **to make good web-development projects**
+- ⚡ Freelancer
+- 🤷‍♂️ Web developer
+- 📫 Reach me **salmanmasood917@gmail.com**
 
-- 📫 How to reach me **salmanmasood917@gmail.com**
-
-- ⚡ Fun fact **i am unstoppable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
